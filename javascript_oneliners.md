@@ -2,8 +2,7 @@
 
 <details>
   <summary>Click to expand!</summary>
-  
-        ```Java
-          [...'Mohan'].reverse().join('')'
-        ```
+```Java
+  [...'Mohan'].reverse().join('')'
+```
 </details>
