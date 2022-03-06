@@ -36,6 +36,15 @@
   ```
 </details>
 
+## What are all Array like objects in javascript? Does it support all the Array methods?
+1. ArrayLike
+  1. arguments
+  1. NodeList - document.getElementsById
+  1. string
+1. They won't support all the Array methods, but we can make use of Function.prototype.call method - to invoke some of Array methods
+
+
+
 ## Where to find javascript Array document
 
 1. MDN > References > Javascript > Built-in-Objects > Array
