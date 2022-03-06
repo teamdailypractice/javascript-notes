@@ -94,5 +94,5 @@ const objectInArray = [
   },//Note the trailing comma
 ];
 
-const numberInArray = [1, 2];
+const numberInArray = [1, 2,];
 ```

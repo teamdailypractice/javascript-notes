@@ -58,9 +58,9 @@ if (headings.length === description.length) {
   return [e, description[i]];
 });
 }
-<!-- contentEnd = "Full support"
-methodDescription.indexOf()
-console.log(methodDescription) -->
+//  contentEnd = "Full support"
+// methodDescription.indexOf()
+// console.log(methodDescription) 
 methodDescription.forEach(item => console.log(item[0].innerText + "-" + item[1].innerText))
 ```
 
